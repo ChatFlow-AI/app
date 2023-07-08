@@ -9,5 +9,7 @@ The app is available on iOS and macOS other platforms coming soon.
 - Edit History
 - Regenerate Last Response
 - Approximate token and cost calculation ([TikToken](https://github.com/openai/tiktoken))
+- Pin and sort important conversations
+- Full-text Search
 - Code related features (Monaco Editor, Code Highlighting, etc.)
 - Cloud Sync across multiple devices (coming soon)
